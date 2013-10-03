@@ -1,2 +1,14 @@
-hangman concept
---------------------------------------
+Hangman Spielkonzept
+--------------------
+
+Game features:
+- Highscore 
+- Verschiedene Schwierigkeitsgrade
+- Einstellungen: Verschiedenen Möglichkeiten. Noch nicht genau überlegt.
+- Verschiedenen Spielmodi sollen unterstützt werden.
+
+Spielmodus Standard:
+- Das Spiel läuft solange bis der Hangman hängt.
+- Der Spieler darf soviele Wörter raten wie er will. Bei jedem Fehler kommt ein Element zum Hangman dazu. 
+- Wenn der Spieler ein Wort in einem bestimmten Zeitrahmen löst, werden Elemente des Hangman wieder entfernt (Time Boni)
+- Für jedes Wort bekommt der Spieler Punkte (Je nach Schwierigkeitsgrad)
